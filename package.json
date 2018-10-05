@@ -1,0 +1,29 @@
+{
+  "name": "pusho",
+  "version": "0.0.1",
+  "description": "JavaScript Client for Pusho Push Notification Service",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Waasi/pusho-js.git"
+  },
+  "keywords": [
+    "client",
+    "push",
+    "notifications",
+    "pusho"
+  ],
+  "author": "Eric D. Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Waasi/pusho-js/issues"
+  },
+  "homepage": "https://github.com/Waasi/pusho-js#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "phoenix-socket": "^1.2.3"
+  }
+}
