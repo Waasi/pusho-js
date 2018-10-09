@@ -2,7 +2,9 @@
 
 [Pusho Service](https://github.com/Waasi/pusho) client for JavaScript
 
-**Note: Still under development
+# Installation
+
+`npm install pusho-js`
 
 # Usage
 
